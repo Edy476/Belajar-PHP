@@ -33,6 +33,7 @@ function salam(){
     <title>Document</title>
 </head>
 <body>
+    <h1>Salam berdasarkan waktu</h1>
     <h1> <?php echo salam(); ?> Admin</h1>
 
 </body>
