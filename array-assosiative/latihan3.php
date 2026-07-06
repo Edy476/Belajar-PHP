@@ -59,6 +59,21 @@ echo "Nama: " .  $mahasiswa2[0]["Email"] . "<br>";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ARRAY ASSOCIATIVE</title>
+
+    <style>
+        h1 {
+            background-color: green;
+            width: 700px;
+            transition: 0.5s;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        h1:hover {
+            background-color: lime;
+            transform: rotateY(5deg);
+        }
+    </style>
 </head>
 
 <body>
